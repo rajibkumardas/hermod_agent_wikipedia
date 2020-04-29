@@ -1,0 +1,13 @@
+@[attribute]
+    ~[material used]
+    country
+    radius
+    ~[use]
+    color
+
+
+~[use]('synonym': 'true')
+    do you use a
+
+~[material used]('synonym': 'true')
+    made from

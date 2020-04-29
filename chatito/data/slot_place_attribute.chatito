@@ -1,0 +1,12 @@
+@[attribute]
+    ~[capital]
+    population
+    ~[age]
+
+~[capital]
+    capital city
+    biggest city
+    main city
+
+~[age]
+    how old

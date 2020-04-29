@@ -1,0 +1,34 @@
+import ./common.chatito
+
+import ./alias_countries.chatito
+import ./alias_cities.chatito
+import ./slot_attribute.chatito
+import ./slot_number.chatito
+import ./slot_person.chatito
+import ./slot_person_attribute.chatito
+import ./slot_place.chatito
+import ./slot_place_attribute.chatito
+import ./slot_thing.chatito
+import ./slot_unit_of_measurement.chatito
+import ./slot_word.chatito
+
+import ./affirm.chatito
+import ./ask_attribute.chatito
+import ./ask_date.chatito
+#import ./ask_followup_attribute.chatito
+import ./ask_time.chatito
+import ./bye.chatito
+import ./convert_units.chatito
+import ./define.chatito
+import ./deny.chatito
+import ./maths_add_numbers.chatito
+import ./maths_subtract_numbers.chatito
+import ./maths_multiply_numbers.chatito
+import ./maths_divide_numbers.chatito
+import ./quit.chatito
+import ./spell_word.chatito
+import ./tell_me_about.chatito
+import ./tell_me_about_person.chatito
+import ./tell_me_about_place.chatito
+import ./tell_me_more.chatito
+import ./what_can_i_say.chatito

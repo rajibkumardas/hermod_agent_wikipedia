@@ -1,0 +1,1342 @@
+## intent:affirmative
+- affirmative yes thank you
+- agreed good
+- right please
+- yes sir that is good sounds good
+- affirmative yes sir thank you
+- im ok with that that is what i want agreed
+- right that is what i want sounds good
+- yep
+- yes sir
+- im ok with that that is good affirmative
+- yes sir that is fine agreed
+- agreed
+- yep that is good right
+- yes its fine right
+- correct its fine right
+- im ok with that yes thank you
+- im ok with that sounds good thank you
+- right affirmative thanks
+- im ok with that good affirmative
+- sounds good that is correct
+- right affirmative
+- sounds good
+- sounds good yep thank you
+- yes
+- right that is correct yes sir
+- yes that is what i want yep
+- im ok with that yep
+- agreed that is correct yes
+- yes good affirmative
+- yes sir good correct
+- agreed agreed thanks
+- agreed that is fine yes sir
+- right i want that
+- right
+- yes sir that is fine sounds good
+- yes sir that is fine affirmative
+- yep its fine correct
+- yes that is fine right
+- right im ok with that thanks
+- affirmative good yep
+- yep you understood me yep
+- im ok with that yep thanks
+- yes sir yes sir thanks
+- yes sir that is correct yep
+- yes sir that is what i want yes sir
+- i want that yes
+- im ok with that that is fine yep
+- affirmative that is correct sounds good
+- yep its fine agreed
+- yes sir that is what i want
+
+## intent:ask_attribute
+- what [color](attribute) is a [marigold](thing)
+- what is the [radius][attribute] of a [football](thing)
+- what [country][attribute] do [gladiators](thing) come from
+- what [do you use a](attribute:use) [house](thing) for
+- what [do you use a](attribute:use) [car](thing) for
+- what is [cloth](thing) [made from](attribute:material used)
+- what is [petrol](thing) [made from](attribute:material used)
+
+## intent:ask_date
+- what is the date
+- what is the date today
+- what is the today's date
+- what is the hour of the day
+- what's date
+- what's date today
+- what's today's date
+- what's hour of the day
+- tell me the date
+- tell me the date today
+- tell me the today's date
+- tell me the hour of the day
+- what's the date
+- what's the date today
+- what's the today's date
+- what's the hour of the day
+- what date is it
+- what date today is it
+- what today's date is it
+- what hour of the day is it
+
+## intent:ask_follow_attribute
+- what about the [made from](attribute:material used)
+- what about the [country](attribute)
+- what about the [radius](attribute)
+- what about the [do you use a](attribute:use)
+- what about the [color](attribute)
+- what is the [made from](attribute:material used)
+- what is the [country](attribute)
+- what is the [radius](attribute)
+- what is the [do you use a](attribute:use)
+- what is the [color](attribute)
+- and what is the [made from](attribute:material used)
+- and what is the [country](attribute)
+- and what is the [radius](attribute)
+- and what is the [do you use a](attribute:use)
+- and what is the [color](attribute)
+
+## intent:ask_time
+- what is the hour
+- what is the time
+- what is the time of day
+- what is the hour of the day
+- what hour is it
+- what time is it
+- what time of day is it
+- what hour of the day is it
+- tell me the hour
+- tell me the time
+- tell me the time of day
+- tell me the hour of the day
+
+## intent:bye
+- leaving cya
+- talk to you later
+- got to go chao
+- im leaving now adios
+- thanks goodbye
+- talk to you soon chao
+- adios
+- got to go adieu
+- goodbye thanks
+- goodbye
+- adieu
+- thanks adios
+- chao
+- have to go farewell
+- talk to you later cya
+- going out goodbye
+- got to go
+- cya
+- bye
+- seeya
+- talk to you soon chau
+- im leaving now chao
+- chao thanks
+- heading out bye
+- chau
+- chau thank you
+- have to go chau
+- cya thanks
+- got to go goodbye
+- heading out cya
+- leaving adieu
+- got to go bye
+- farewell
+- heading out adios
+- im leaving now seeya
+- talk to you soon bye
+- thanks adieu
+- im leaving now farewell
+- talk to you later adios
+- thank you goodbye
+- talk to you soon cya
+- seeya thanks
+- have to go seeya
+- going out
+- thank you cya
+- leaving
+- thank you bye
+- thanks chau
+- got to go chau
+- chao thank you
+- have to go goodbye
+- leaving adios
+- chau thanks
+- talk to you later chao
+- going out adieu
+- im leaving now bye
+- thank you chao
+- adios thanks
+- seeya thank you
+- heading out chau
+- got to go farewell
+- heading out farewell
+- have to go
+- talk to you later seeya
+- adios thank you
+- have to go adieu
+- talk to you soon adieu
+- heading out seeya
+- got to go cya
+- im leaving now
+- talk to you later adieu
+- heading out adieu
+- going out chao
+- have to go bye
+- have to go chao
+- thank you seeya
+- im leaving now cya
+- talk to you soon farewell
+- heading out
+- talk to you later chau
+- leaving goodbye
+- talk to you later farewell
+- goodbye thank you
+- cya thank you
+- leaving chao
+- thanks chao
+- going out farewell
+- leaving farewell
+- going out adios
+- im leaving now adieu
+- im leaving now goodbye
+- got to go seeya
+- talk to you later goodbye
+- leaving seeya
+- thank you farewell
+- farewell thanks
+- going out chau
+- talk to you soon
+- leaving bye
+- farewell thank you
+
+## intent:convert_units
+- convert [8](number) [kilometres](unit_of_measurement) to [miles](unit_of_measurement)
+- what is [1](number) [centigrade](unit_of_measurement) in [fahrenheit](unit_of_measurement)
+- what is [534](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- what is [2](number) [miles](unit_of_measurement) in [metres](unit_of_measurement)
+- convert [129](number) [pounds](unit_of_measurement) to [kilograms](unit_of_measurement)
+- what is [249](number) [degrees fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- convert [7](number) [miles](unit_of_measurement) to [kilometres](unit_of_measurement)
+- what is [129](number) [fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- what is [8](number) [centigrade](unit_of_measurement) in [degrees fahrenheit](unit_of_measurement)
+- convert [6](number) [degrees fahrenheit](unit_of_measurement) to [degrees centigrade](unit_of_measurement)
+- convert [129](number) [miles](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [1289](number) [yards](unit_of_measurement) to [metres](unit_of_measurement)
+- convert [48](number) [centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- convert [5](number) [degrees centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- what is [3](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- what is [1289](number) [degrees centigrade](unit_of_measurement) in [fahrenheit](unit_of_measurement)
+- what is [1289](number) [yards](unit_of_measurement) in [metres](unit_of_measurement)
+- what is [9](number) [yards](unit_of_measurement) in [kilometres](unit_of_measurement)
+- convert [8](number) [centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- convert [13](number) [degrees centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- what is [9](number) [kilometres](unit_of_measurement) in [miles](unit_of_measurement)
+- what is [8](number) [degrees centigrade](unit_of_measurement) in [degrees fahrenheit](unit_of_measurement)
+- what is [3](number) [fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- what is [129](number) [degrees fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- convert [4](number) [miles](unit_of_measurement) to [metres](unit_of_measurement)
+- what is [25](number) [metres](unit_of_measurement) in [yards](unit_of_measurement)
+- convert [249](number) [kilometres](unit_of_measurement) to [miles](unit_of_measurement)
+- what is [13](number) [yards](unit_of_measurement) in [metres](unit_of_measurement)
+- convert [249](number) [centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- convert [5](number) [yards](unit_of_measurement) to [metres](unit_of_measurement)
+- convert [534](number) [degrees fahrenheit](unit_of_measurement) to [degrees centigrade](unit_of_measurement)
+- what is [0](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- what is [129](number) [fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- convert [89](number) [metres](unit_of_measurement) to [yards](unit_of_measurement)
+- what is [0](number) [degrees fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- convert [3](number) [centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- what is [89](number) [kilometres](unit_of_measurement) in [yards](unit_of_measurement)
+- what is [986](number) [metres](unit_of_measurement) in [miles](unit_of_measurement)
+- what is [986](number) [miles](unit_of_measurement) in [kilometres](unit_of_measurement)
+- convert [5](number) [centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- convert [10](number) [miles](unit_of_measurement) to [metres](unit_of_measurement)
+- what is [249](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- what is [9](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- convert [10](number) [yards](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [8](number) [yards](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [5](number) [yards](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [534](number) [yards](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [5](number) [miles](unit_of_measurement) to [kilometres](unit_of_measurement)
+- convert [9](number) [yards](unit_of_measurement) to [kilometres](unit_of_measurement)
+- what is [6](number) [kilometres](unit_of_measurement) in [miles](unit_of_measurement)
+- convert [0](number) [metres](unit_of_measurement) to [yards](unit_of_measurement)
+- what is [2](number) [metres](unit_of_measurement) in [miles](unit_of_measurement)
+- what is [48](number) [yards](unit_of_measurement) in [kilometres](unit_of_measurement)
+- what is [9](number) [yards](unit_of_measurement) in [metres](unit_of_measurement)
+- what is [4](number) [degrees fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- what is [3](number) [fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- what is [10](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- convert [5](number) [metres](unit_of_measurement) to [miles](unit_of_measurement)
+- convert [129](number) [fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- convert [15](number) [metres](unit_of_measurement) to [yards](unit_of_measurement)
+- convert [2](number) [fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- convert [2](number) [fahrenheit](unit_of_measurement) to [degrees centigrade](unit_of_measurement)
+- what is [7](number) [kilometres](unit_of_measurement) in [yards](unit_of_measurement)
+- what is [7889888](number) [degrees fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- convert [0](number) [degrees centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- convert [89](number) [degrees centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- convert [534](number) [metres](unit_of_measurement) to [miles](unit_of_measurement)
+- what is [48](number) [yards](unit_of_measurement) in [metres](unit_of_measurement)
+- what is [9](number) [degrees fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- what is [15](number) [miles](unit_of_measurement) in [metres](unit_of_measurement)
+- convert [7](number) [degrees centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- what is [534](number) [metres](unit_of_measurement) in [miles](unit_of_measurement)
+- what is [129](number) [miles](unit_of_measurement) in [kilometres](unit_of_measurement)
+- convert [986](number) [degrees centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- what is [129](number) [kilometres](unit_of_measurement) in [yards](unit_of_measurement)
+- convert [2](number) [degrees fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- convert [129](number) [degrees centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+- convert [13](number) [metres](unit_of_measurement) to [yards](unit_of_measurement)
+- what is [4](number) [yards](unit_of_measurement) in [kilometres](unit_of_measurement)
+- what is [15](number) [degrees fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- what is [9](number) [fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- what is [2](number) [kilograms](unit_of_measurement) in [pounds](unit_of_measurement)
+- convert [534](number) [fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- what is [0](number) [centigrade](unit_of_measurement) in [fahrenheit](unit_of_measurement)
+- what is [13](number) [degrees fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- what is [13](number) [fahrenheit](unit_of_measurement) in [degrees centigrade](unit_of_measurement)
+- convert [4](number) [kilometres](unit_of_measurement) to [yards](unit_of_measurement)
+- convert [4](number) [fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- convert [1289](number) [degrees fahrenheit](unit_of_measurement) to [centigrade](unit_of_measurement)
+- what is [3](number) [metres](unit_of_measurement) in [yards](unit_of_measurement)
+- what is [4354](number) [pounds](unit_of_measurement) in [kilograms](unit_of_measurement)
+- what is [48](number) [kilometres](unit_of_measurement) in [miles](unit_of_measurement)
+- convert [4354](number) [metres](unit_of_measurement) to [miles](unit_of_measurement)
+- what is [4354](number) [degrees fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- convert [6](number) [kilometres](unit_of_measurement) to [miles](unit_of_measurement)
+- convert [25](number) [miles](unit_of_measurement) to [metres](unit_of_measurement)
+- convert [5](number) [degrees centigrade](unit_of_measurement) to [fahrenheit](unit_of_measurement)
+- what is [15](number) [fahrenheit](unit_of_measurement) in [centigrade](unit_of_measurement)
+- convert [2](number) [degrees fahrenheit](unit_of_measurement) to [degrees centigrade](unit_of_measurement)
+- convert [5](number) [centigrade](unit_of_measurement) to [degrees fahrenheit](unit_of_measurement)
+
+## intent:define
+- define [breeding](word)
+- define the word [emotional](word)
+- define the word [variety](word)
+- define [le](word)
+- define the word [carolina](word)
+- what does [cancer](word) mean
+- define [disable](word)
+- what does [css](word) mean
+- define the word [seattle](word)
+- define the word [completion](word)
+- define [dl](word)
+- define [rfc](word)
+- define the word [programmes](word)
+- what is the meaning of [spots](word)
+- define [ivory](word)
+- what is the meaning of [server](word)
+- define [saver](word)
+- what does [varies](word) mean
+- what does [rarely](word) mean
+- what is the meaning of [rabbit](word)
+- what does [exhibitions](word) mean
+- what does [hazard](word) mean
+- define [aside](word)
+- what does [switch](word) mean
+- define the word [hunger](word)
+- define [labour](word)
+- what does [powell](word) mean
+- define the word [bitch](word)
+- what is the meaning of [report](word)
+- what does [kit](word) mean
+- define [vulnerability](word)
+- define [surgery](word)
+- define the word [paying](word)
+- define the word [clone](word)
+- define [zip](word)
+- define [amendment](word)
+- what does [excess](word) mean
+- define [treasure](word)
+- what does [far](word) mean
+- what does [presentations](word) mean
+- define the word [delhi](word)
+- define [lamb](word)
+- what is the meaning of [routing](word)
+- define the word [million](word)
+- what is the meaning of [more](word)
+- define the word [see](word)
+- define [min](word)
+- what is the meaning of [directed](word)
+- what does [viewed](word) mean
+- what is the meaning of [productions](word)
+- what does [secrets](word) mean
+- what is the meaning of [battery](word)
+- what does [extend](word) mean
+- define [handles](word)
+- define [configuring](word)
+- define the word [hardly](word)
+- define the word [oops](word)
+- what does [idaho](word) mean
+- what does [constant](word) mean
+- what is the meaning of [walks](word)
+- define [inn](word)
+- define [smile](word)
+- define [frontier](word)
+- what does [sync](word) mean
+- what does [fort](word) mean
+- what does [advantages](word) mean
+- define the word [combine](word)
+- what is the meaning of [subcommittee](word)
+- define the word [plugin](word)
+- define [apartments](word)
+- define [monroe](word)
+- what does [rose](word) mean
+- define [yellow](word)
+- define the word [conferencing](word)
+- what is the meaning of [department](word)
+- what is the meaning of [nil](word)
+- what is the meaning of [journey](word)
+- what does [posting](word) mean
+- define [verification](word)
+- what does [caused](word) mean
+- what does [glen](word) mean
+- define [ext](word)
+- define [jimmy](word)
+- define [divisions](word)
+- what is the meaning of [diary](word)
+- what does [smoke](word) mean
+- define [maryland](word)
+- what does [kelkoo](word) mean
+- define [youth](word)
+- what does [jones](word) mean
+- define [real](word)
+- define the word [casual](word)
+- what is the meaning of [assured](word)
+- define the word [guidelines](word)
+- define [presence](word)
+- define [obtain](word)
+- define [phi](word)
+- define the word [seventh](word)
+- what does [period](word) mean
+- what does [completion](word) mean
+- define [repeat](word)
+- what does [possibilities](word) mean
+- define the word [britain](word)
+- define the word [gone](word)
+- define [finding](word)
+- what is the meaning of [tours](word)
+- what is the meaning of [beauty](word)
+- what does [finals](word) mean
+- define [lc](word)
+- define the word [blogs](word)
+- what is the meaning of [kde](word)
+- define [incorporate](word)
+- define [resorts](word)
+- define the word [desirable](word)
+- what is the meaning of [assist](word)
+- what does [liverpool](word) mean
+- define the word [tickets](word)
+- define [sequence](word)
+- define [likelihood](word)
+- what is the meaning of [jackie](word)
+- define the word [netherlands](word)
+- what does [major](word) mean
+- define the word [environments](word)
+- define [fax](word)
+- what does [deviation](word) mean
+- what is the meaning of [seeking](word)
+- define [coupled](word)
+- what does [rolls](word) mean
+- what does [fraction](word) mean
+- what does [friend](word) mean
+- define the word [alike](word)
+- what is the meaning of [niger](word)
+- define [frequent](word)
+- what is the meaning of [avon](word)
+- define [character](word)
+- define the word [disputes](word)
+- what is the meaning of [peripherals](word)
+- what does [wider](word) mean
+- what does [remarks](word) mean
+- what does [of](word) mean
+- define [help](word)
+- what is the meaning of [partners](word)
+- what does [phase](word) mean
+- what does [willow](word) mean
+- define the word [common](word)
+- define the word [notified](word)
+- what does [deposit](word) mean
+- what is the meaning of [var](word)
+- what is the meaning of [navigator](word)
+- define [deaf](word)
+- what does [retail](word) mean
+- what is the meaning of [shelter](word)
+- define the word [indeed](word)
+- what is the meaning of [tube](word)
+- what does [book](word) mean
+- what is the meaning of [bathrooms](word)
+- what does [sizes](word) mean
+- what does [swimming](word) mean
+- define the word [shipment](word)
+- define [gary](word)
+- what does [rights](word) mean
+- define the word [communication](word)
+- define [survivor](word)
+- define [obligation](word)
+- define [money](word)
+- what is the meaning of [backed](word)
+- define the word [had](word)
+- define the word [grid](word)
+- what does [sound](word) mean
+- what is the meaning of [existence](word)
+- what is the meaning of [operation](word)
+- what is the meaning of [bryant](word)
+- what is the meaning of [definition](word)
+- define the word [drew](word)
+- what is the meaning of [care](word)
+- what does [bookmark](word) mean
+- what does [olympics](word) mean
+- what does [tour](word) mean
+- define [temp](word)
+- define the word [road](word)
+- what is the meaning of [relatively](word)
+- define [allocation](word)
+- define the word [bahrain](word)
+- define the word [nissan](word)
+- what is the meaning of [watt](word)
+- what is the meaning of [logged](word)
+- define the word [stroke](word)
+- define the word [hamilton](word)
+- what is the meaning of [constitutional](word)
+- what is the meaning of [reflection](word)
+- define the word [pursuit](word)
+- what is the meaning of [experiences](word)
+- what is the meaning of [archived](word)
+- define the word [jacket](word)
+- define the word [yale](word)
+- what is the meaning of [incident](word)
+- what does [banking](word) mean
+- what is the meaning of [mentor](word)
+- define [senate](word)
+- define the word [seeing](word)
+
+## intent:negative
+- please nope
+- nope plz it's not good
+- that's not right
+- no
+- nope please that's not what i want
+- nope pls it's not good
+- incorrect its not correct
+- don't do that plz i don't want that
+- that's not what i want
+- don't do that its not ok
+- that's not right its not correct
+- pls no that's not what i want
+- no plz that's wrong
+- no please that is wrong
+- not really that is wrong
+- it's not good
+- nope plz its not ok
+- not really didnt meant that
+- its not correct
+- nope i don't want that
+- that's not right it's not good
+- that's not right that's not correct
+- nope please its not ok
+- please incorrect it's not good
+- nope plz its not correct
+- not really it's not good
+- not really
+- please that's not right dont mean that
+- plz no dont mean that
+- plz incorrect its not correct
+- incorrect that's not what i want
+- don't do that please didnt meant that
+- no its not ok
+- dont mean that
+- nope pls its not ok
+- not really pls that's not correct
+- incorrect pls i don't want that
+- incorrect please that's not what i want
+- don't do that i don't want that
+- nope please that's wrong
+- plz that's not right didnt meant that
+- don't do that pls didnt meant that
+- that's not right that's wrong
+- please incorrect its not correct
+- that's not correct
+- plz nope i don't want that
+- plz nope its not correct
+- no it's not good
+- pls not really its not correct
+- plz no that's not what i want
+
+## intent:maths_add_numbers
+- add [5](number) and [986](number) together
+- what is [4](number) [8](number)
+- what is [1](number) [13](number)
+- what is the sum of [48](number) plus [4](number)
+- add [1](number) and [48](number) together
+- what is [6](number) [89](number)
+- what is the sum of [9](number) plus [10](number)
+- what is [129](number) plus [25](number)
+- add [4](number) and [249](number)
+- what is [6](number) [9](number)
+- what is [4](number) plus [986](number)
+- add [249](number) to [5](number)
+- what is [1289](number) plus [4](number)
+- add [534](number) and [10](number)
+- add [249](number) and [5](number)
+- add [1](number) and [1](number) together
+- what is [4354](number) [986](number)
+- add [1289](number) and [1](number) together
+- what is [129](number) plus [129](number)
+- add [15](number) and [7](number)
+- what is [89](number) and [1289](number)
+- what is [129](number) and [4354](number)
+- what is the sum of [2](number) plus [13](number)
+- add [6](number) and [1289](number)
+- what is the sum of [5](number) plus [249](number)
+- what is the sum of [1](number) plus [89](number)
+- what is [15](number) plus [5](number)
+- what is [25](number) [5](number)
+- what is [7](number) [4](number)
+- add [1289](number) and [7889888](number) together
+- add [0](number) and [4354](number)
+- what is [13](number) [10](number)
+- add [5](number) to [5](number)
+- what is [8](number) [129](number)
+- what is [9](number) plus [6](number)
+- add [249](number) to [986](number)
+- add [2](number) to [9](number)
+- add [4](number) and [9](number)
+- what is the sum of [534](number) plus [8](number)
+- add [5](number) and [129](number)
+- what is the sum of [10](number) plus [4354](number)
+- what is [10](number) plus [10](number)
+- add [2](number) to [3](number)
+- add [25](number) to [4](number)
+- add [7889888](number) and [48](number)
+- add [10](number) to [89](number)
+- add [48](number) and [10](number) together
+- what is [9](number) and [6](number)
+- what is [5](number) plus [10](number)
+- what is [89](number) plus [3](number)
+- add [48](number) and [4354](number) together
+- add [2](number) and [13](number) together
+- add [6](number) and [129](number) together
+- what is [1](number) [25](number)
+- what is [9](number) [89](number)
+- add [4](number) and [249](number) together
+- what is [3](number) and [7889888](number)
+- add [129](number) and [15](number) together
+- what is [48](number) [4354](number)
+- what is [249](number) and [4354](number)
+- add [534](number) and [129](number) together
+- what is the sum of [89](number) plus [5](number)
+- add [4354](number) and [2](number)
+- add [13](number) and [48](number) together
+- what is the sum of [8](number) plus [1](number)
+- what is [1](number) and [1](number)
+- what is the sum of [986](number) plus [986](number)
+- add [4354](number) and [129](number)
+- what is [7](number) [3](number)
+- what is [6](number) [249](number)
+- what is the sum of [986](number) plus [5](number)
+- what is [25](number) plus [4](number)
+- what is [10](number) plus [249](number)
+- what is [25](number) plus [9](number)
+- what is [9](number) plus [1](number)
+- add [1](number) and [7](number)
+- what is the sum of [4354](number) plus [89](number)
+- add [15](number) and [129](number)
+- what is the sum of [986](number) plus [129](number)
+- what is the sum of [13](number) plus [9](number)
+- what is [2](number) and [7889888](number)
+- what is [2](number) plus [13](number)
+- what is the sum of [10](number) plus [1289](number)
+- add [3](number) to [249](number)
+- what is [129](number) plus [48](number)
+- add [986](number) to [3](number)
+- what is [15](number) and [1289](number)
+- add [89](number) and [4354](number) together
+- what is [1289](number) and [6](number)
+- what is [1289](number) and [4354](number)
+- add [0](number) and [986](number)
+- what is the sum of [89](number) plus [25](number)
+- what is [1](number) [89](number)
+- add [15](number) and [89](number) together
+- add [2](number) and [10](number) together
+- what is [4](number) plus [249](number)
+- add [89](number) and [15](number)
+- what is [986](number) [5](number)
+- what is [8](number) [3](number)
+- what is [9](number) and [129](number)
+
+## intent:maths_divide_numbers
+- divide [13](number) by [2](number)
+- what is the [129](number) into [3](number)
+- what is the [3](number) into [986](number)
+- what is [4354](number) over [13](number)
+- divide [89](number) by [48](number)
+- divide [15](number) into [4](number)
+- divide [2](number) into [249](number)
+- what is [89](number) divided by [3](number)
+- what is [249](number) divided by [534](number)
+- what is [129](number) divided by [1](number)
+- what is [534](number) over [3](number)
+- divide [534](number) by [0](number)
+- divide [15](number) by [5](number)
+- divide [129](number) into [4](number)
+- what is the [534](number) into [9](number)
+- divide [15](number) by [0](number)
+- what is the [4](number) into [8](number)
+- what is the [10](number) into [5](number)
+- divide [1289](number) by [9](number)
+- divide [5](number) into [249](number)
+- what is the [6](number) into [6](number)
+- what is [129](number) divided by [2](number)
+- what is [129](number) divided by [7](number)
+- what is [4](number) over [249](number)
+- what is [9](number) over [13](number)
+- divide [5](number) by [1289](number)
+- what is [7889888](number) over [3](number)
+- what is [48](number) divided by [4](number)
+- what is the [1](number) into [10](number)
+- divide [6](number) into [986](number)
+- what is [129](number) divided by [4](number)
+- what is [15](number) over [10](number)
+- divide [7](number) by [4](number)
+- what is the [1289](number) into [7](number)
+- what is [1289](number) divided by [1](number)
+- what is [986](number) over [7889888](number)
+- divide [5](number) into [9](number)
+- divide [15](number) by [15](number)
+- what is [8](number) divided by [7](number)
+- divide [8](number) into [15](number)
+- divide [48](number) into [8](number)
+- what is [89](number) divided by [25](number)
+- what is [6](number) divided by [4](number)
+- divide [0](number) by [6](number)
+- what is the [6](number) into [2](number)
+- what is the [7](number) into [10](number)
+- divide [534](number) by [8](number)
+- what is [25](number) over [986](number)
+- what is [4354](number) over [9](number)
+- divide [10](number) by [1289](number)
+- divide [8](number) by [0](number)
+- divide [15](number) by [3](number)
+- what is the [8](number) into [129](number)
+- what is the [7889888](number) into [13](number)
+- divide [0](number) into [6](number)
+- what is the [4](number) into [986](number)
+- what is [4](number) over [4](number)
+- divide [25](number) into [6](number)
+- divide [7](number) into [7](number)
+- divide [3](number) by [986](number)
+- divide [986](number) by [13](number)
+- what is the [7](number) into [13](number)
+- what is [10](number) divided by [48](number)
+- what is [1289](number) over [249](number)
+- what is the [15](number) into [249](number)
+- what is the [129](number) into [15](number)
+- what is [129](number) divided by [15](number)
+- what is [4354](number) over [10](number)
+- what is the [8](number) into [9](number)
+- divide [9](number) by [89](number)
+- what is the [1289](number) into [986](number)
+- what is the [7](number) into [4354](number)
+- divide [986](number) by [9](number)
+- what is [4](number) over [534](number)
+- what is [4354](number) over [4354](number)
+- what is [10](number) over [534](number)
+- divide [0](number) into [4354](number)
+- what is [25](number) over [0](number)
+- divide [15](number) by [6](number)
+- what is [15](number) divided by [129](number)
+- divide [89](number) by [2](number)
+- what is [9](number) divided by [8](number)
+- divide [0](number) into [7](number)
+- divide [7](number) into [4](number)
+- divide [7](number) into [129](number)
+- divide [4354](number) by [986](number)
+- what is the [9](number) into [6](number)
+- divide [7](number) into [8](number)
+- what is the [2](number) into [3](number)
+- divide [3](number) by [4](number)
+- divide [6](number) into [534](number)
+- what is [10](number) divided by [534](number)
+- divide [13](number) into [3](number)
+- divide [249](number) into [48](number)
+- what is [129](number) divided by [129](number)
+- what is the [89](number) into [13](number)
+- divide [89](number) into [7889888](number)
+- divide [2](number) into [534](number)
+- what is the [1289](number) into [0](number)
+- what is [25](number) over [1289](number)
+
+## intent:maths_multiply_numbers
+- what is the product of  [4](number) and [5](number)
+- what is [89](number) times [15](number)
+- multiply [10](number) and [534](number) together
+- what is the product of  [8](number) and [249](number)
+- what is the product of  [1289](number) and [1](number)
+- what is the multiplication of [48](number) and [9](number)
+- multiply [5](number) and [25](number)
+- what is [2](number) multiplied by [1](number)
+- multiply [8](number) by [1289](number)
+- what is the product of  [13](number) and [1289](number)
+- what is [1](number) multiplied by [13](number)
+- multiply [48](number) and [0](number)
+- multiply [129](number) to [6](number)
+- what is the product of  [7889888](number) and [4](number)
+- multiply [4](number) to [4354](number)
+- multiply [4354](number) to [5](number)
+- multiply [4](number) to [0](number)
+- multiply [89](number) by [15](number)
+- what is the multiplication of [7](number) and [10](number)
+- multiply [249](number) and [10](number) together
+- multiply [4](number) by [986](number)
+- what is [25](number) times [2](number)
+- what is [7889888](number) multiplied by [4](number)
+- multiply [4](number) to [3](number)
+- multiply [15](number) to [4](number)
+- multiply [48](number) to [25](number)
+- what is the multiplication of [2](number) and [0](number)
+- multiply [1289](number) to [13](number)
+- multiply [1](number) by [89](number)
+- what is the multiplication of [2](number) and [8](number)
+- multiply [8](number) to [15](number)
+- multiply [4354](number) to [7](number)
+- what is the product of  [3](number) and [15](number)
+- what is [534](number) times [0](number)
+- what is the multiplication of [4354](number) and [89](number)
+- multiply [13](number) by [2](number)
+- what is the product of  [89](number) and [3](number)
+- multiply [10](number) to [3](number)
+- what is [48](number) times [4](number)
+- what is the product of  [25](number) and [129](number)
+- multiply [534](number) by [7](number)
+- what is [8](number) times [3](number)
+- multiply [89](number) and [1](number) together
+- multiply [8](number) and [7889888](number) together
+- what is [0](number) multiplied by [15](number)
+- what is the multiplication of [249](number) and [89](number)
+- what is [129](number) multiplied by [9](number)
+- multiply [48](number) and [25](number) together
+- what is [6](number) times [4](number)
+- what is [15](number) times [5](number)
+- what is [8](number) multiplied by [4354](number)
+- multiply [986](number) and [986](number) together
+- what is the product of  [0](number) and [5](number)
+- what is the product of  [1](number) and [4](number)
+- multiply [4354](number) by [2](number)
+- multiply [1289](number) and [7](number)
+- what is [0](number) multiplied by [7](number)
+- multiply [5](number) and [1289](number)
+- multiply [1289](number) to [249](number)
+- what is the product of  [8](number) and [2](number)
+- what is [4354](number) times [1](number)
+- multiply [10](number) and [1289](number) together
+- multiply [986](number) to [3](number)
+- multiply [15](number) and [5](number)
+- multiply [5](number) to [25](number)
+- what is the multiplication of [13](number) and [4](number)
+- multiply [48](number) to [5](number)
+- what is the product of  [10](number) and [1289](number)
+- what is the multiplication of [4354](number) and [986](number)
+- multiply [25](number) by [7889888](number)
+- what is the product of  [1289](number) and [7889888](number)
+- multiply [4354](number) to [7889888](number)
+- what is the product of  [1289](number) and [89](number)
+- what is [48](number) multiplied by [1](number)
+- what is [986](number) times [3](number)
+- what is the product of  [534](number) and [6](number)
+- what is the product of  [129](number) and [8](number)
+- what is the product of  [7889888](number) and [8](number)
+- multiply [48](number) and [6](number) together
+- what is the multiplication of [7](number) and [15](number)
+- what is [534](number) times [10](number)
+- what is [534](number) times [13](number)
+- multiply [249](number) and [2](number)
+- what is the product of  [4354](number) and [7](number)
+- multiply [8](number) and [48](number) together
+- what is the multiplication of [3](number) and [249](number)
+- what is the product of  [10](number) and [8](number)
+- what is the product of  [5](number) and [9](number)
+- multiply [6](number) and [4](number) together
+- multiply [15](number) and [4354](number)
+- multiply [129](number) and [15](number)
+- multiply [89](number) to [3](number)
+- what is the product of  [986](number) and [1](number)
+- multiply [4354](number) and [25](number) together
+- what is the product of  [25](number) and [8](number)
+- multiply [1](number) and [48](number)
+- multiply [249](number) and [6](number) together
+- what is the multiplication of [3](number) and [986](number)
+- multiply [249](number) to [0](number)
+- what is [9](number) times [25](number)
+
+## intent:maths_subtract_numbers
+- what is [986](number) subtract [25](number)
+- what is the difference between [5](number) and [48](number)
+- what is [1289](number) take away [7](number)
+- what is [7889888](number) take away [15](number)
+- what is [8](number) take away [249](number)
+- what is [8](number) subtract [7](number)
+- what is [6](number) take away [534](number)
+- what is [2](number) subtract [534](number)
+- what is the difference between [13](number) and [13](number)
+- what is the difference between [13](number) and [0](number)
+- what is [5](number) subtract [15](number)
+- what is [6](number) subtract [986](number)
+- what is [25](number) subtract [986](number)
+- what is [3](number) subtract [2](number)
+- what is the difference between [9](number) and [48](number)
+- what is [986](number) subtract [6](number)
+- what is the difference of  [986](number) minus [4](number)
+- what is the difference between [48](number) and [1289](number)
+- what is the difference between [986](number) and [0](number)
+- what is [2](number) subtract [4354](number)
+- what is [89](number) subtract [89](number)
+- what is [0](number) subtract [0](number)
+- what is the difference of  [534](number) minus [534](number)
+- what is the difference of  [15](number) minus [534](number)
+- what is the difference between [534](number) and [1](number)
+- what is the difference between [7889888](number) and [249](number)
+- what is the difference of  [89](number) minus [13](number)
+- what is the difference between [6](number) and [89](number)
+- what is [0](number) subtract [13](number)
+- what is the difference of  [7889888](number) minus [3](number)
+- what is [13](number) take away [5](number)
+- what is [25](number) subtract [249](number)
+- what is the difference between [534](number) and [5](number)
+- what is the difference between [48](number) and [249](number)
+- what is [986](number) subtract [15](number)
+- what is the difference between [986](number) and [48](number)
+- what is [13](number) subtract [249](number)
+- what is [2](number) subtract [3](number)
+- what is the difference of  [4](number) minus [7](number)
+- what is [13](number) subtract [2](number)
+- what is the difference of  [15](number) minus [1](number)
+- what is the difference of  [7889888](number) minus [25](number)
+- what is [89](number) take away [534](number)
+- what is [9](number) subtract [9](number)
+- what is [10](number) take away [7889888](number)
+- what is [534](number) take away [3](number)
+- what is [8](number) take away [1](number)
+- what is [986](number) take away [3](number)
+- what is the difference of  [10](number) minus [6](number)
+- what is the difference of  [1](number) minus [6](number)
+- what is [6](number) subtract [4354](number)
+- what is [13](number) subtract [9](number)
+- what is [129](number) take away [15](number)
+- what is the difference between [15](number) and [4](number)
+- what is the difference between [2](number) and [5](number)
+- what is [129](number) take away [5](number)
+- what is [15](number) subtract [25](number)
+- what is [89](number) take away [10](number)
+- what is [25](number) take away [8](number)
+- what is the difference between [7](number) and [129](number)
+- what is the difference between [15](number) and [9](number)
+- what is [6](number) take away [986](number)
+- what is the difference of  [2](number) minus [249](number)
+- what is the difference between [249](number) and [0](number)
+- what is [7889888](number) subtract [249](number)
+- what is [25](number) take away [15](number)
+- what is the difference between [2](number) and [7889888](number)
+- what is [7](number) subtract [534](number)
+- what is [89](number) take away [1](number)
+- what is [5](number) subtract [249](number)
+- what is [4354](number) take away [986](number)
+- what is [249](number) subtract [10](number)
+- what is the difference of  [4](number) minus [7889888](number)
+- what is the difference between [5](number) and [6](number)
+- what is the difference of  [25](number) minus [3](number)
+- what is [6](number) subtract [8](number)
+- what is [7](number) subtract [15](number)
+- what is [986](number) take away [129](number)
+- what is [10](number) subtract [48](number)
+- what is [4354](number) take away [4](number)
+- what is the difference between [89](number) and [4354](number)
+- what is [986](number) subtract [9](number)
+- what is the difference of  [1289](number) minus [249](number)
+- what is the difference between [7](number) and [4](number)
+- what is the difference of  [15](number) minus [4](number)
+- what is [9](number) subtract [0](number)
+- what is [25](number) subtract [129](number)
+- what is [48](number) subtract [249](number)
+- what is [2](number) take away [4354](number)
+- what is the difference between [6](number) and [1](number)
+- what is the difference of  [129](number) minus [25](number)
+- what is [986](number) subtract [1](number)
+- what is the difference between [15](number) and [249](number)
+- what is the difference of  [4354](number) minus [10](number)
+- what is [9](number) subtract [129](number)
+- what is the difference between [15](number) and [7889888](number)
+- what is [1289](number) subtract [89](number)
+- what is the difference of  [6](number) minus [13](number)
+- what is the difference between [534](number) and [9](number)
+- what is [249](number) take away [48](number)
+
+## intent:quit
+- bye
+- goodbye
+- see you around
+- see you later
+- cancel
+- quit
+- good bye
+- exit
+
+## intent:spell_word
+- spell the word [resource](word)
+- spell [enclosure](word)
+- how do i spell [northeast](word)
+- spell the word [virtue](word)
+- spell [antiques](word)
+- spell the word [affairs](word)
+- how do i spell [competitors](word)
+- spell the word [later](word)
+- how do i spell [behaviour](word)
+- how do i spell [disagree](word)
+- how do i spell [thin](word)
+- spell the word [tops](word)
+- spell [transit](word)
+- spell [stations](word)
+- spell [polished](word)
+- spell [health](word)
+- spell the word [military](word)
+- spell [es](word)
+- spell the word [estimates](word)
+- how do i spell [anonymous](word)
+- how do i spell [parties](word)
+- spell [outline](word)
+- spell the word [finland](word)
+- spell [medicine](word)
+- spell the word [souls](word)
+- spell [wesley](word)
+- how do i spell [job](word)
+- spell the word [helps](word)
+- spell the word [wto](word)
+- how do i spell [halfcom](word)
+- how do i spell [asn](word)
+- how do i spell [borders](word)
+- how do i spell [impose](word)
+- spell the word [solution](word)
+- how do i spell [welcome](word)
+- spell the word [mold](word)
+- how do i spell [produced](word)
+- spell the word [decision](word)
+- spell the word [landscapes](word)
+- how do i spell [springer](word)
+- spell the word [usa](word)
+- how do i spell [tanzania](word)
+- spell [author](word)
+- spell [encounter](word)
+- spell [ver](word)
+- spell [varying](word)
+- spell [thu](word)
+- how do i spell [believed](word)
+- spell the word [employers](word)
+- spell [afford](word)
+- spell [grounds](word)
+- spell [drivers](word)
+- how do i spell [key](word)
+- how do i spell [stars](word)
+- spell the word [cds](word)
+- how do i spell [sublimedirectory](word)
+- spell the word [released](word)
+- spell [occupations](word)
+- spell the word [raymond](word)
+- spell [journey](word)
+- spell the word [bronze](word)
+- spell [arab](word)
+- spell [om](word)
+- how do i spell [families](word)
+- how do i spell [keyboards](word)
+- how do i spell [ix](word)
+- spell [gold](word)
+- how do i spell [requiring](word)
+- spell the word [marketplace](word)
+- spell the word [act](word)
+- spell the word [bankruptcy](word)
+- spell the word [cc](word)
+- spell the word [screensavers](word)
+- spell the word [ascii](word)
+- spell [necessary](word)
+- spell [calif](word)
+- spell the word [summaries](word)
+- spell [opposition](word)
+- how do i spell [white](word)
+- spell the word [candidate](word)
+- spell [judicial](word)
+- spell the word [carlo](word)
+- spell [segments](word)
+- spell [kb](word)
+- spell the word [cure](word)
+- spell [solomon](word)
+- spell the word [plot](word)
+- how do i spell [icons](word)
+- spell [generous](word)
+- spell [end](word)
+- spell the word [conferencing](word)
+- how do i spell [berkeley](word)
+- how do i spell [adapted](word)
+- spell [frog](word)
+- spell [coins](word)
+- spell the word [monetary](word)
+- how do i spell [endangered](word)
+- spell the word [priced](word)
+- spell [cat](word)
+- spell the word [robust](word)
+
+## intent:tell_me_about
+- tell me about [petrol](thing)
+- tell me about [cloth](thing)
+- tell me about [car](thing)
+- tell me about [house](thing)
+- tell me about [gladiators](thing)
+- tell me about [football](thing)
+- tell me about [space station](thing)
+- tell me about [marigold](thing)
+- give me some information about [petrol](thing)
+- give me some information about [cloth](thing)
+- give me some information about [car](thing)
+- give me some information about [house](thing)
+- give me some information about [gladiators](thing)
+- give me some information about [football](thing)
+- give me some information about [space station](thing)
+- give me some information about [marigold](thing)
+- show me a page about [petrol](thing)
+- show me a page about [cloth](thing)
+- show me a page about [car](thing)
+- show me a page about [house](thing)
+- show me a page about [gladiators](thing)
+- show me a page about [football](thing)
+- show me a page about [space station](thing)
+- show me a page about [marigold](thing)
+- show me a [petrol](thing) webpage
+- show me a [cloth](thing) webpage
+- show me a [car](thing) webpage
+- show me a [house](thing) webpage
+- show me a [gladiators](thing) webpage
+- show me a [football](thing) webpage
+- show me a [space station](thing) webpage
+- show me a [marigold](thing) webpage
+- what is [petrol](thing)
+- what is [cloth](thing)
+- what is [car](thing)
+- what is [house](thing)
+- what is [gladiators](thing)
+- what is [football](thing)
+- what is [space station](thing)
+- what is [marigold](thing)
+- what are [petrol](thing)
+- what are [cloth](thing)
+- what are [car](thing)
+- what are [house](thing)
+- what are [gladiators](thing)
+- what are [football](thing)
+- what are [space station](thing)
+- what are [marigold](thing)
+- what kinds of [petrol](thing) are there
+- what kinds of [cloth](thing) are there
+- what kinds of [car](thing) are there
+- what kinds of [house](thing) are there
+- what kinds of [gladiators](thing) are there
+- what kinds of [football](thing) are there
+- what kinds of [space station](thing) are there
+- what kinds of [marigold](thing) are there
+- why use [petrol](thing)
+- why use [cloth](thing)
+- why use [car](thing)
+- why use [house](thing)
+- why use [gladiators](thing)
+- why use [football](thing)
+- why use [space station](thing)
+- why use [marigold](thing)
+
+## intent:ask_about_person
+- who is the performer [Johnny Rotten](person)
+- tell me about judge [James Brown](person)
+- tell me about reverend [Johnny Rotten](person)
+- who is the [Julia Gillard](person)
+- tell me about the artist [Johnny Rotten](person)
+- tell me about reverend [James Brown](person)
+- tell me about the artist [Bruce Willis](person)
+- who is the reverend [Julia Gillard](person)
+- tell me about artist [Julia Gillard](person)
+- tell me about reverend [Julia Gillard](person)
+- tell me about the politician [Bruce Willis](person)
+- who is the actor [Bruce Willis](person)
+- who is [Julia Gillard](person)
+- tell me about musician [Julia Gillard](person)
+- tell me about person [Johnny Rotten](person)
+- who is the musician [Julia Gillard](person)
+- tell me about [Julia Gillard](person)
+- who is the actor [Julia Gillard](person)
+- who is the artist [Johnny Rotten](person)
+- tell me about the politician [Julia Gillard](person)
+- tell me about performer [Julia Gillard](person)
+- tell me about artist [Bruce Willis](person)
+- tell me about politician [Julia Gillard](person)
+- tell me about actor [Julia Gillard](person)
+- tell me about the performer [Johnny Rotten](person)
+- tell me about the reverend [Julia Gillard](person)
+- who is the [Bruce Willis](person)
+- who is the judge [Julia Gillard](person)
+- tell me about musician [Bruce Willis](person)
+- who is the artist [Bruce Willis](person)
+- tell me about [James Brown](person)
+- give me a bio for [Julia Gillard](person)
+- tell me about actor [Bruce Willis](person)
+- tell me about is [Johnny Rotten](person)
+- who is the judge [Johnny Rotten](person)
+- who is the actor [Johnny Rotten](person)
+- who is the politician [Johnny Rotten](person)
+- who is the politician [Julia Gillard](person)
+- tell me about musician [James Brown](person)
+- tell me about [Bruce Willis](person)
+- tell me about the judge [Johnny Rotten](person)
+- tell me about actor [Johnny Rotten](person)
+- who is the person [Bruce Willis](person)
+- tell me about the actor [Julia Gillard](person)
+- tell me about the artist [Julia Gillard](person)
+- tell me about artist [Johnny Rotten](person)
+- give me a biography for [Johnny Rotten](person)
+- who is the performer [Bruce Willis](person)
+- tell me about judge [Bruce Willis](person)
+- who is the reverend [Bruce Willis](person)
+- tell me about the person [Julia Gillard](person)
+- tell me about judge [Johnny Rotten](person)
+- give me a biography for [James Brown](person)
+- give me a bio for [Bruce Willis](person)
+- who is the reverend [James Brown](person)
+- tell me about the [Johnny Rotten](person)
+- who is [James Brown](person)
+- tell me about the performer [James Brown](person)
+- tell me about actor [James Brown](person)
+- tell me about the actor [Johnny Rotten](person)
+- who is the musician [Bruce Willis](person)
+- give me a bio for [Johnny Rotten](person)
+- tell me about the judge [Bruce Willis](person)
+- give me a bio for [James Brown](person)
+- who is the judge [James Brown](person)
+- tell me about musician [Johnny Rotten](person)
+- who is the artist [Julia Gillard](person)
+- tell me about the artist [James Brown](person)
+- who is [Bruce Willis](person)
+- who is the person [James Brown](person)
+- who is the politician [Bruce Willis](person)
+- tell me about the judge [Julia Gillard](person)
+- tell me about [Johnny Rotten](person)
+- tell me about the person [Johnny Rotten](person)
+- who is the [Johnny Rotten](person)
+- tell me about the [Julia Gillard](person)
+- give me a biography for [Bruce Willis](person)
+- who is the [James Brown](person)
+- who is the actor [James Brown](person)
+- tell me about is [James Brown](person)
+- who is [Johnny Rotten](person)
+- tell me about performer [Bruce Willis](person)
+- tell me about the judge [James Brown](person)
+- tell me about the musician [James Brown](person)
+- tell me about is [Bruce Willis](person)
+- who is the person [Johnny Rotten](person)
+- who is the artist [James Brown](person)
+- tell me about artist [James Brown](person)
+- tell me about the person [James Brown](person)
+- tell me about reverend [Bruce Willis](person)
+- who is the musician [Johnny Rotten](person)
+- tell me about person [Bruce Willis](person)
+- tell me about performer [James Brown](person)
+- tell me about judge [Julia Gillard](person)
+- who is the performer [Julia Gillard](person)
+- tell me about the reverend [Johnny Rotten](person)
+- tell me about the actor [James Brown](person)
+- who is the reverend [Johnny Rotten](person)
+- tell me about performer [Johnny Rotten](person)
+- tell me about the politician [James Brown](person)
+
+## intent:tell_me_about_person_attribute
+- what [job][attribute:occupation] does [James Brown](person) have
+- what [job][attribute:occupation] does [Julia Gillard](person) have
+- what [job][attribute:occupation] does [Johnny Rotten](person) have
+- what [job][attribute:occupation] does [Bruce Willis](person) have
+- what does [James Brown](person) do [for a job](attribute:occupation)
+- what does [Julia Gillard](person) do [for a job](attribute:occupation)
+- what does [Johnny Rotten](person) do [for a job](attribute:occupation)
+- what does [Bruce Willis](person) do [for a job](attribute:occupation)
+- what does [James Brown](person) do to [make a living](attribute:occupation)
+- what does [Julia Gillard](person) do to [make a living](attribute:occupation)
+- what does [Johnny Rotten](person) do to [make a living](attribute:occupation)
+- what does [Bruce Willis](person) do to [make a living](attribute:occupation)
+- how does [James Brown](person) [make money](attribute:occupation)
+- how does [Julia Gillard](person) [make money](attribute:occupation)
+- how does [Johnny Rotten](person) [make money](attribute:occupation)
+- how does [Bruce Willis](person) [make money](attribute:occupation)
+- where does [James Brown](person) [come from](attribute:place of birth)
+- where does [Julia Gillard](person) [come from](attribute:place of birth)
+- where does [Johnny Rotten](person) [come from](attribute:place of birth)
+- where does [Bruce Willis](person) [come from](attribute:place of birth)
+- where was [James Brown](person) [born](attribute:place of birth)
+- where was [Julia Gillard](person) [born](attribute:place of birth)
+- where was [Johnny Rotten](person) [born](attribute:place of birth)
+- where was [Bruce Willis](person) [born](attribute:place of birth)
+- when is [James Brown](person) [birthday](attribute:date of birth)
+- when is [Julia Gillard](person) [birthday](attribute:date of birth)
+- when is [Johnny Rotten](person) [birthday](attribute:date of birth)
+- when is [Bruce Willis](person) [birthday](attribute:date of birth)
+- what [job](attribute:occupation) did [James Brown](person) do
+- what [job](attribute:occupation) did [Julia Gillard](person) do
+- what [job](attribute:occupation) did [Johnny Rotten](person) do
+- what [job](attribute:occupation) did [Bruce Willis](person) do
+- what is [James Brown](person) [birth day](attribute:date of birth)
+- what is [Julia Gillard](person) [birth day](attribute:date of birth)
+- what is [Johnny Rotten](person) [birth day](attribute:date of birth)
+- what is [Bruce Willis](person) [birth day](attribute:date of birth)
+- what is [James Brown](person)s [birthday](attribute:date of birth)
+- what is [Julia Gillard](person)s [birthday](attribute:date of birth)
+- what is [Johnny Rotten](person)s [birthday](attribute:date of birth)
+- what is [Bruce Willis](person)s [birthday](attribute:date of birth)
+
+## intent:tell_me_about_place
+- tell me about [country](place)
+- tell me about [city](place)
+- where is [country](place)
+- where is [city](place)
+- what kind of place is [country](place)
+- what kind of place is [city](place)
+- how do i get to [country](place)
+- how do i get to [city](place)
+
+## intent:tell_me_about_place_attribute
+- what is the [capital city](attribute) of [country](place)
+- what is the [biggest city](attribute) of [country](place)
+- what is the [main city](attribute) of [country](place)
+- what is the [population](attribute) of [country](place)
+- what is the [how old](attribute) of [country](place)
+- what is the [capital city](attribute) of [city](place)
+- what is the [biggest city](attribute) of [city](place)
+- what is the [main city](attribute) of [city](place)
+- what is the [population](attribute) of [city](place)
+- what is the [how old](attribute) of [city](place)
+
+## intent:tell_me_more
+- tell me more
+- give me more
+- i want to know more
+- keep going
+
+## intent:what_can_i_say
+- what can i say
+- help
+- what can i do
+- what should i do
+- help me
+
+## synonym:material used
+- made from
+
+## synonym:use
+- do you use a

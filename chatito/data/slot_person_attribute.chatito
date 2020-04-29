@@ -1,0 +1,14 @@
+@[attribute]
+    ~[occupation]
+    ~[place_of_birth]
+
+~[occupation]('synonym': 'true')
+    job
+    for a job
+    make a living
+    make money
+
+~[place_of_birth]('synonym': 'true')
+    born
+    come from
+    home town

@@ -1,0 +1,15 @@
+import ./slot_person.chatito
+import ./slot_person_attribute.chatito
+
+%[tell_me_about_person_attribute]('training': '100')
+    what [job][attribute:occupation] does @[person] have
+    what does @[person] do [for a job](attribute:occupation)
+    what does @[person] do to [make a living](attribute:occupation)
+    how does @[person] [make money](attribute:occupation)
+    where does @[person] [come from](attribute:place of birth)
+    where was @[person] [born](attribute:place of birth)
+    when is @[person] [birthday](attribute:date of birth)
+    what [job](attribute:occupation) did @[person] do
+    what is @[person] [birth day](attribute:date of birth)
+    what is @[person]s [birthday](attribute:date of birth)
+
